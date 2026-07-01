@@ -1,24 +1,148 @@
-<<<<<<< HEAD
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚀 BaleHost
 
-# Run and deploy your AI Studio app
+<p align="center">
+  <img src="./assets/banner.png" alt="BaleHost Banner" width="100%">
+</p>
 
-This contains everything you need to run your app locally.
+<p align="center">
+  <strong>Modern Web Hosting & Digital Solutions Landing Page</strong><br>
+  Designed and developed with a focus on performance, clean UI, and user experience.
+</p>
 
-View your app in AI Studio: https://ai.studio/apps/e3238d28-05bd-4327-a143-1660bfd15807
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Built%20with-React-61DAFB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Vite-Latest-646CFF?style=for-the-badge">
+</p>
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 📖 About
 
+**BaleHost** is a modern landing page concept for a digital service provider based in **Nusa Penida, Bali**. The website is designed to showcase web hosting, web development, branding, SEO, and digital solutions through a premium and responsive user interface.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-=======
+This project was created as part of my **UI/UX and Front-End Development Portfolio**, emphasizing modern design principles, accessibility, responsiveness, and smooth user interactions.
 
->>>>>>> a6ffe8e450242203eadb214b6423ee8351d5b36e
+---
+
+## ✨ Features
+
+- 🎨 Modern & Minimalist UI
+- 📱 Fully Responsive Design
+- ⚡ Fast Performance with Vite
+- 🌙 Premium Visual Experience
+- 🎯 SEO Friendly Structure
+- 💻 Clean Component-Based Architecture
+- 🚀 Optimized Landing Page
+- 📞 Contact & Call-to-Action Sections
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Description |
+|------------|-------------|
+| React | Frontend Framework |
+| TypeScript | Programming Language |
+| Vite | Build Tool |
+| CSS3 | Styling |
+| HTML5 | Markup Language |
+
+---
+
+## 📂 Project Structure
+
+```text
+balehost/
+│
+├── assets/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   └── App.tsx
+│
+├── public/
+├── package.json
+├── vite.config.ts
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone Repository
+
+```bash
+git clone https://github.com/sugikne/Balehost.git
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run Development Server
+
+```bash
+npm run dev
+```
+
+### Build Project
+
+```bash
+npm run build
+```
+
+---
+
+## 📷 Preview
+
+> Add your latest website screenshots here.
+
+| Desktop | Mobile |
+|----------|---------|
+| Coming Soon | Coming Soon |
+
+---
+
+## 🌐 Live Demo
+
+Coming Soon
+
+---
+
+## 🎯 Project Goals
+
+- Create a professional hosting service landing page
+- Improve digital branding presentation
+- Practice modern UI/UX implementation
+- Build a production-ready React project
+- Showcase front-end development skills
+
+---
+
+## 👨‍💻 Author
+
+**Sugianta**
+
+UI/UX Designer • Front-End Developer • Graphic Designer
+
+- GitHub: https://github.com/sugikne
+- Portfolio: Coming Soon
+- Instagram: https://instagram.com/bale.host
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to give it a ⭐ on GitHub.
+
+---
+
+## 📄 License
+
+This project is available for educational and portfolio purposes.
