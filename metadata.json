@@ -1,0 +1,6 @@
+{
+  "name": "BaleHost",
+  "description": "BaleHost adalah Digital Agency di Nusa Penida yang menyediakan jasa pembuatan website profesional, UI/UX Design, hosting, domain, SEO, landing page, company profile, dan solusi digital untuk UMKM, villa, hotel, restoran, tour & travel, hingga perusahaan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
