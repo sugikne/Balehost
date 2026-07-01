@@ -50,7 +50,7 @@ Detail Kontak:
 - Layanan yang Dibutuhkan: ${formData.serviceNeeded}
 - Pesan: ${formData.message}`;
 
-    return `https://wa.me/6282144558833?text=${encodeURIComponent(text)}`;
+    return `https://wa.me/6285333049716?text=${encodeURIComponent(text)}`;
   };
 
   const handleSubmit = (e: React.FormEvent) => {
@@ -108,7 +108,7 @@ Detail Kontak:
                 
                 {/* WhatsApp */}
                 <a
-                  href="https://wa.me/6282144558833"
+                  href="https://wa.me/6285333049716"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-4 p-4 rounded-2xl bg-white border border-brand-dark/10 hover:border-brand-blue/30 hover:bg-brand-blue/[0.01] transition-all group"
@@ -118,7 +118,7 @@ Detail Kontak:
                   </div>
                   <div>
                     <div className="text-[10px] font-mono font-bold text-brand-dark/40 leading-none uppercase">{t('Dukungan WhatsApp (Tercepat)', 'WhatsApp Support (Fastest)')}</div>
-                    <div className="font-bold text-brand-dark mt-1">+62 821-4455-8833</div>
+                    <div className="font-bold text-brand-dark mt-1">+62 853-3304-9716</div>
                   </div>
                 </a>
 

@@ -34,7 +34,7 @@ export default function WhatsAppFloating() {
 
   const handleSendMessage = () => {
     const message = encodeURIComponent("Halo BaleHost, saya tertarik untuk membuat website profesional!");
-    window.open(`https://wa.me/628123456789?text=${message}`, '_blank');
+    window.open(`https://wa.me/6285333049716?text=${message}`, '_blank');
   };
 
   return (
