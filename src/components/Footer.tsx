@@ -35,7 +35,7 @@ export default function Footer({ onNavigate }: FooterProps) {
       "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?q=80&w=800",
       "@id": "https://balehost.com/#localbusiness",
       "url": "https://balehost.com",
-      "telephone": "+6282144558833",
+      "telephone": "+62 823-2634-7260",
       "priceRange": "$$",
       "address": {
         "@type": "PostalAddress",
@@ -216,7 +216,7 @@ export default function Footer({ onNavigate }: FooterProps) {
             {/* Quick outbound CTA links */}
             <div className="pt-2">
               <a
-                href="https://wa.me/6282144558833"
+                href="https://wa.me/6282326347260"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center text-xs font-extrabold text-brand-soft hover:text-white transition-colors font-mono uppercase tracking-wider"
