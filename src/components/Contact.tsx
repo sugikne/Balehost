@@ -50,7 +50,7 @@ Detail Kontak:
 - Layanan yang Dibutuhkan: ${formData.serviceNeeded}
 - Pesan: ${formData.message}`;
 
-    return `https://wa.me/6285333049716?text=${encodeURIComponent(text)}`;
+    return `https://wa.me/6282326347260?text=${encodeURIComponent(text)}`;
   };
 
   const handleSubmit = (e: React.FormEvent) => {
@@ -108,7 +108,7 @@ Detail Kontak:
                 
                 {/* WhatsApp */}
                 <a
-                  href="https://wa.me/6285333049716"
+                  href="https://wa.me/6282326347260"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-4 p-4 rounded-2xl bg-white border border-brand-dark/10 hover:border-brand-blue/30 hover:bg-brand-blue/[0.01] transition-all group"
