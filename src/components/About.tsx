@@ -77,11 +77,11 @@ export default function About() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-12 items-start">
           
-          {/* Left Column: Narrative Content & Accordions */}
+          {/* Left Column: Narrative Content & Accordions 
           <div className="lg:col-span-6 space-y-5">
             <div className="inline-block text-xs font-bold uppercase tracking-widest text-brand-blue font-mono">
-              {t('// Siapa Kami', '// Who We Are')}
-            </div>
+              {*/ t('// Siapa Kami', '// Who We Are') */}
+            </div> */}
             
             <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-brand-dark leading-tight">
               {t('Tentang BaleHost:', 'About BaleHost:')} <br />
