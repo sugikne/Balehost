@@ -80,7 +80,7 @@ export default function About() {
           {/* Left Column: Narrative Content & Accordions 
           <div className="lg:col-span-6 space-y-5">
             <div className="inline-block text-xs font-bold uppercase tracking-widest text-brand-blue font-mono">
-              {*/ t('// Siapa Kami', '// Who We Are') */}
+              { t('// Siapa Kami', '// Who We Are') }
             </div> */}
             
             <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-brand-dark leading-tight">
